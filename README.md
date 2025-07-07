@@ -54,4 +54,3 @@ pip install torch transformers hdbscan pandas openpyxl
 
 ---
 
-このツールを使えば、限られた講義時間内でも情報密度の高い質問対応・整理が可能です。
